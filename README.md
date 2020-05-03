@@ -1,4 +1,4 @@
-# 中文NLP预测股价变化
+
 
 # Using NLP to trade
 
